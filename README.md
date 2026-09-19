@@ -1,4 +1,4 @@
-# Canada Benefits AI Agent
+# Canada Benefits AI Assistant
 
 An AI-powered conversational agent that helps users discover which Canadian federal benefits they may qualify for. It guides users through a dynamic, multiple-choice survey, evaluates eligibility using a rules-based engine, and generates detailed, context-aware explanations using a Retrieval-Augmented Generation (RAG) pipeline powered by the Groq API.
 
