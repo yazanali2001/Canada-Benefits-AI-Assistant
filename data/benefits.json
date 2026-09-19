@@ -1,0 +1,82 @@
+[
+  {
+    "id": "benefit-001",
+    "program_name": "Employment Insurance benefits and leave",
+    "category": "general",
+    "description": "If you are affected by wildfires or floods, visit ourHelp for individuals affected by hazardous weatherpage for more information on how Service Canada can support. Employment Insurance (EI) benefits information, how to apply and how to submit a report. Apply if you have lost your job through no fault of your own.",
+    "eligibility_summary": "See the official page for detailed eligibility criteria.",
+    "official_url": "https://www.canada.ca/en/services/benefits/ei.html"
+  },
+  {
+    "id": "benefit-002",
+    "program_name": "Canadian Dental Care Plan (CDCP)",
+    "category": "general",
+    "description": "The Canadian Dental Care Plan (CDCP) is helping make the cost of dental care more affordable for eligible Canadian residents. Open Applications for the 2026-2027 benefit period are open.",
+    "eligibility_summary": "See the official page for detailed eligibility criteria.",
+    "official_url": "https://www.canada.ca/en/services/benefits/dental/dental-care-plan.html"
+  },
+  {
+    "id": "benefit-003",
+    "program_name": "Disability benefits",
+    "category": "general",
+    "description": "Includes the Canada Disability Benefit, disability pensions and children’s benefits, savings plans and a gasoline tax refund program. Financial support to people with disabilities, who are between 18 and 64 years old. Taxable benefit you may be eligible for if you are unable to work because of a disability.",
+    "eligibility_summary": "See the official page for detailed eligibility criteria.",
+    "official_url": "https://www.canada.ca/en/services/benefits/disability.html"
+  },
+  {
+    "id": "benefit-004",
+    "program_name": "Family and caregiving benefits",
+    "category": "general",
+    "description": "Child benefit, dental coverage and GST/HST credit. Employment Insurance (EI) including maternity, parental and caregiving benefits and leave. Help for the costs of raising children with disabilities. Monthly payment for eligible families with children under 18 years of age. Apply if you are providing care or support to a critically ill or injured person or someone needing end-of-life care.",
+    "eligibility_summary": "See the official page for detailed eligibility criteria.",
+    "official_url": "https://www.canada.ca/en/services/benefits/family.html"
+  },
+  {
+    "id": "benefit-005",
+    "program_name": "Public pensions",
+    "category": "general",
+    "description": "If you are affected by wildfires or floods, visit ourHelp for individuals affected by hazardous weatherpage for more information on how Service Canada can support. Sign up for direct depositto avoid delays in your benefit payments. It's fast, secure, and convenient. If you haven’t filed your 2024 taxes with the CRA, your Guaranteed Income Supplement (GIS) payments may stop or be reduced.",
+    "eligibility_summary": "See the official page for detailed eligibility criteria.",
+    "official_url": "https://www.canada.ca/en/services/benefits/publicpensions.html"
+  },
+  {
+    "id": "benefit-006",
+    "program_name": "Grants and funding opportunities",
+    "category": "general",
+    "description": "Explore funding opportunities  (also known asgrants and contributions) to help you fund projects that support jobs, training, or social development in Canada. Register to get emails about funding opportunities results out of",
+    "eligibility_summary": "See the official page for detailed eligibility criteria.",
+    "official_url": "https://www.canada.ca/en/employment-social-development/services/funding/programs.html"
+  },
+  {
+    "id": "benefit-007",
+    "program_name": "Student aid and education planning",
+    "category": "general",
+    "description": "Get money to study by exploring student grants, loans, and education savings benefits to help plan your education. Find out more about education supports. Grantsdo not need to be repaid.Loansare interest free and repaid after graduation. Get money to study.",
+    "eligibility_summary": "See the official page for detailed eligibility criteria.",
+    "official_url": "https://www.canada.ca/en/services/benefits/education.html"
+  },
+  {
+    "id": "benefit-008",
+    "program_name": "Housing benefits",
+    "category": "general",
+    "description": "Information on theGST/HSTnew housing rebate, buying a home, making homes more energy-efficient and funding for Indigenous housing construction and renovation. Recover part of GST/HST paid for a new or renovated home that is your primary residence. Claim up to $10,000 for first time home buyers and persons with disabilities purchasing a home.",
+    "eligibility_summary": "See the official page for detailed eligibility criteria.",
+    "official_url": "https://www.canada.ca/en/services/benefits/housing.html"
+  },
+  {
+    "id": "benefit-009",
+    "program_name": "Find benefits and financial support",
+    "category": "general",
+    "description": "Find the support you need to help with everyday expenses, funding for your business or organization, or personal tax deductions. Learn the signs so you can protect yourself fromscams and fraud. Check thelatest scams alertsrelated to benefits and taxes.",
+    "eligibility_summary": "See the official page for detailed eligibility criteria.",
+    "official_url": "https://www.canada.ca/en/services/benefits/benefits-financial-support.html?new"
+  },
+  {
+    "id": "benefit-010",
+    "program_name": "What to do when someone dies",
+    "category": "general",
+    "description": "There can be a lot of things to do when someone has died. Depending on your relationship to the person, you may have different tasks or activities to complete. Find out what has to be done if you are not sure or need guidance. If you need help working through grief, or just need someone to talk to,visit the mental health support page. Answer a few simple questions for guidance on your situation and to create a checklist of the steps you need to take.",
+    "eligibility_summary": "See the official page for detailed eligibility criteria.",
+    "official_url": "https://www.canada.ca/en/services/life-events/death.html"
+  }
+]

@@ -1,0 +1,13 @@
+# Environment secrets
+.env
+
+# Python
+venv/
+pycache/
+*.pyc
+
+# Database
+*.db
+
+# Vector DB
+chroma_db/
